@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\User\source\repos\lab6.4(recursion)\Source.cpp(43): warning C4715: 'dobutok': not all control paths return a value
+C:\Users\User\source\repos\lab6.4(recursion)\Source.cpp(32): warning C4715: 'array_count': not all control paths return a value
+C:\Users\User\source\repos\lab6.4(recursion)\Source.cpp(63): warning C4715: 'times_after': not all control paths return a value
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\lab6.4(recursion)\x64\Debug\UnitTest1.dll
